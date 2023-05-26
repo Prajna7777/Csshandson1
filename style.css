@@ -1,0 +1,48 @@
+h1 {
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+ li{
+    color: rgb(134 7 7)
+    
+}
+ol{
+    line-height: 40px;
+}
+span{
+    font-weight: 900;
+}
+.item-third {
+    text-decoration: line-through;
+}
+.item-fourth{
+    background-color: yellow;
+}
+.item-five{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 900;
+}
+.item-six{
+    background-color: yellow;
+}
+.item-seven{
+    background-color: yellow;
+}
+p{
+    color: rgb(134 7 7) 
+}
+ul {
+    font-size: 20px;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   letter-spacing: 10px;
+   
+}
+a{
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+}
